@@ -15,7 +15,7 @@ ChucK program that lets you play your Rock Band USB drum kit on a computer.
 ## Installation ##
 
 Once chuck and the XBox drivers are installed, unzip both sample zip files in
-the same directory as drumkit.ck.
+the same a subdirectory called data.
 
 ## Running ##
 
