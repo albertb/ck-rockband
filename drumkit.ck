@@ -8,7 +8,7 @@ SndBuf red => dac;
 "data/890-35_ltibbits_Rock_Drum_Kit/16298_ltibbits_snare_1_high_vol.wav" => red.read;
 
 SndBuf yellow => dac;
-"data/890-35_ltibbits_Rock_Drum_Kit/16310_ltibbits_tom_12_high_vol.wav" => yellow.read;
+"data/890-35_ltibbits_Rock_Drum_Kit/16308_ltibbits_snare_6_tight_open_high_vol.wav" => yellow.read;
 
 SndBuf blue => dac;
 "data/889-49_ltibbits_High_Quality_Cymbals/16266_ltibbits_HH_A_Custom_closed_hard.wav" => blue.read;
